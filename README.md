@@ -12,7 +12,7 @@ Créer une base de données sql sur alwaysdata, faites en sorte de pouvoir enreg
 - id (AUTO_INCREMENT)
 - nom (VARCHAR)
 - prenom (VARCHAR)
-- adresse (TEXT)
+- adresse (VARCHAR)
 - ville (VARCHAR)
 - telephone (VARCHAR)
 - secteur (INT)
